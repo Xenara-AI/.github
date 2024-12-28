@@ -1,5 +1,7 @@
 # 🚀 **Xenara: AI-Powered Customer Engagement Platform**
 
+---
+
 Welcome to **Xenara**—where we’re redefining customer engagement with the power of AI! 🌐 Our platform combines the best of machine learning, generative AI, and seamless integrations to provide smart, personalized interactions that elevate customer experience. 🎉
 
 ## 🌟 **What is Xenara?**
